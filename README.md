@@ -4,9 +4,13 @@ I’m Cemali, a researcher specializing in GNSS-IR and sea level studies. I deve
 
 🎸 Guitarist | 📖 Philosophy Enthusiast | 🐾 Cat Lover
 
+# Links
+- 🌍 [Scientific Publications](https://avesis.yildiz.edu.tr/cemali/publications)
+- 🎵 [My Music on Spotify](https://open.spotify.com/intl-tr/artist/0OtHz9g7GmRcm2E3Aqe4iU?si=vrKuY0ZJShuplnamBo8kFw)
+- 🚀 [Current Project: Near Real-Time GNSS-IR](https://github.com/cemalialtuntas/NearRealTimeGNSSIR)
+
+
 ## Skills & Interests
 - **Programming:** Python, MATLAB
 - **Fields of Expertise:** GNSS-IR, Sea Level Analysis, Data Science
 - **Interests:** Music production, minimalism, philosophy, and creative coding.
-
-🌍 [Check out my projects](https://github.com/cemali-altuntas)
