@@ -5,7 +5,7 @@ I’m Cemali, a researcher specializing in GNSS-IR and sea level studies. I deve
 🎸 Guitarist | 📖 Philosophy Enthusiast | 🐾 Cat Lover
 
 ## Links
-- 🌍 [Web Site](https://cemalialtuntas.github.io/)
+- 🌐 [Web Site](https://cemalialtuntas.github.io/)
 - 🌍 [Scientific Publications](https://avesis.yildiz.edu.tr/cemali/publications)
 - 🚀 [Current Project: OpenGNSSTools](https://github.com/OpenGNSSTools)
 
